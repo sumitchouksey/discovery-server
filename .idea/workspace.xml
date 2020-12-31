@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c253178c-6c20-4724-a2d2-8f4e2c4fce6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mQtNwi6Wa4BNtEeLkUOIRp1yGo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.adrixus.discovery.server.app.DiscoveryServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c253178c-6c20-4724-a2d2-8f4e2c4fce6f" name="Default Changelist" comment="" />
+      <created>1609437605978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609437605978</updated>
+      <workItem from="1609437612063" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="162" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609437896021">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="162" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/42.27.1324.741@42.27.1324.741" timestamp="1609437896021" />
+    <state x="436" y="189" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1609437893921">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="436" y="189" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/42.27.1324.741@42.27.1324.741" timestamp="1609437893921" />
+    <state x="193" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1609437879726">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="193" y="31" width="1022" height="737" key="SettingsEditor/42.27.1324.741@42.27.1324.741" timestamp="1609437879725" />
+    <state x="368" y="174" key="run.anything.popup" timestamp="1609437888820">
+      <screen x="42" y="27" width="1324" height="741" />
+    </state>
+    <state x="368" y="174" key="run.anything.popup/42.27.1324.741@42.27.1324.741" timestamp="1609437888820" />
+  </component>
+</project>
